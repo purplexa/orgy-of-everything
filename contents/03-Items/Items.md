@@ -53,3 +53,17 @@ When thrown, it returns to the wielder's hand. On a hit, it deals 1d6 bludgeonin
 *wondrous item, legendary* <div style='margin-top:-6px'></div>
 
 This sentient rod made of a transparent crystal seems to be constantly flickering between images of far-off places while constantly wiggling in a seemingly impossible manner. The rod can hold 4 charges and regains 1d3 charges daily at dawn. As an action, you can ask the rod to expend a charge and cast teleport targeting any creature within range of the rod. If there are more than 8 willing creatures within 10 feet of the rod, the rod chooses the nearest 8 creatures to bring with it. When you describe the desired location to the rod, roll a d6. On a 1 or 2, the rod gets overeager and casts the spell before you finish describing the location. Since the rod cannot hold objects, it cannot use an associated object to target the spell.
+
+
+### Staff of the Empath
+*weapon (quarterstaff), rare (requires attunement by a Way of the Empath Monk)* <div style='margin-top:-6px'></div>
+This quarterstaff at first glance appears to be a simple 18 inch long club carved out of high quality, sturdy wood.
+
+While holding the staff, you can mentally command it to extend into a 6 foot long quarterstaff (no action required). As an action when it is extended, you can collapse it back down to its original size. When extended to a full quarterstaff in this way, its damage type becomes psychic.
+
+The staff can hold a maximum of 6 charges and contains 1d6 charges when first found. It regains 1d4 expended charges daily at dawn.
+As a bonus action, you can speak a command word and expend a charge. For the next minute, all melee attacks you make with the staff deal an additional amount of psychic damage equal to your Wisdom modifier.
+
+### Super Hammer
+*maul, rare*
+This comically large hammer features a plain wooden haft and an oversize double mallet head of black iron. As an action, you can activate SUPER MODE, causing it to swing on its own for 1 minute. Its damage dice increase to 3d6 for the duration, and when you take the Attack action on your turn, you can make one additional attack as a bonus action, but the only action you can take on your turn is Attack, even if another effect would normally force you to take a different action. You become incapacitated for two turns when the SUPER MODE ends, as the effort of holding onto the rapidly swinging hammer has left you tired and sore.
