@@ -57,6 +57,7 @@ This sentient rod made of a transparent crystal seems to be constantly flickerin
 
 ### Staff of the Empath
 *weapon (quarterstaff), rare (requires attunement by a Way of the Empath Monk)* <div style='margin-top:-6px'></div>
+
 This quarterstaff at first glance appears to be a simple 18 inch long club carved out of high quality, sturdy wood.
 
 While holding the staff, you can mentally command it to extend into a 6 foot long quarterstaff (no action required). As an action when it is extended, you can collapse it back down to its original size. When extended to a full quarterstaff in this way, its damage type becomes psychic.
@@ -64,6 +65,16 @@ While holding the staff, you can mentally command it to extend into a 6 foot lon
 The staff can hold a maximum of 6 charges and contains 1d6 charges when first found. It regains 1d4 expended charges daily at dawn.
 As a bonus action, you can speak a command word and expend a charge. For the next minute, all melee attacks you make with the staff deal an additional amount of psychic damage equal to your Wisdom modifier.
 
+
 ### Super Hammer
-*maul, rare*
+*maul, rare* <div style='margin-top:-6px'></div>
+
 This comically large hammer features a plain wooden haft and an oversize double mallet head of black iron. As an action, you can activate SUPER MODE, causing it to swing on its own for 1 minute. Its damage dice increase to 3d6 for the duration, and when you take the Attack action on your turn, you can make one additional attack as a bonus action, but the only action you can take on your turn is Attack, even if another effect would normally force you to take a different action. You become incapacitated for two turns when the SUPER MODE ends, as the effort of holding onto the rapidly swinging hammer has left you tired and sore.
+
+
+### Beam of Feline Targeting
+*wondrous item, uncommon* <div style='margin-top:-6px'></div>
+
+This tiny, handheld cylinder has a single button on the side. When pressed, a tiny, focused beam of red light extends indefinitely, causing a small red dot to appear on whatever surface it points at. As an action while the beam is pointed at a creature which uses eyes to see, you can attempt to shine the beam into the creature's eyes. The target makes a DC 10 Constitution saving throw. Creatures with darkvision who are in dim light or darkness have disadvantage on this check. On a failure, the target has disadvantage on its next attack roll before the beginning of your next turn. 
+
+Additionally, you can cast conjure animals while pointing the device at a creaturea. When you do so, you always summon 8 cats who ignore your verbal commands and single-mindedly attack the creature targeted by the beam at the time of casting. You can change the target by using a bonus action to point the beam at a new creature. When cast this way, you do not have to maintain concentration on the spell. The device regains the ability to allow you to cast conjure animals in this way each day at dawn.
