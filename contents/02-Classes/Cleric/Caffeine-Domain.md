@@ -1,16 +1,6 @@
 <div class="phb">
-
 ### Caffeine Domain
 Flavour text goes here.
-
-##### Caffeine Domain Features
-| Cleric Level | Feature |
-|:----:|:-------------|
-| 1st  | Domain Spells, Accelerated Action |
-| 2nd  | Channel Divinity:  |
-| 6th  | Stimulant Injection |
-| 8th  | Potent Spellcasting |
-| 17th | 17th Level Feature |
 
 #### Domain Spells
 You gain domain spells at the cleric levels listed in the Caffeine Domain Spells table. See the Divine Domain class feature for how domain spells work.
@@ -27,29 +17,49 @@ You gain domain spells at the cleric levels listed in the Caffeine Domain Spells
 #### Accelerated Action
 Starting when you choose this domain at 1st level, you learn to draw on your caffeine infused essence to act quickly. 
 
-Once per turn, you can choose to take an additional action. This action can only be used to take the Attack (one weapon attack only), Dash, Disengage, ~~Hide~~, Help, or Use an Object action.
+Once per turn, you can choose to take an additional action. This action can only be used to take the Attack (one weapon attack only), Dash, Disengage, Help, or Use an Object action.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest
 
-#### Channel Divinity: 
-Temp hp equal to wis mod plus cleric level to you and 6 allies in 30 ft (still needs formalized wording) 
+#### Channel Divinity: Morning Joe
+Starting at 2nd level, you can use your Channel Divinity to keep your allies awake.
 
-also could make it anyone with temp hp from the channel divinity can't be forced to sleep
+As an action, you present your holy symbol and choose up to 6 creatures within 30 feet of you. The chosen creatures gain a number of temporary hit points equal to your cleric level plus your Wisdom modifier.
 
-wait, make it so you don't need to sleep at level 1, then make the channel divinity prevent anyone under its effect from being forced to sleep
+While the chosen creatures still have temporary hit points from this feature, they cannot be forced to sleep by any means.
 
 RULES REMINDER: Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a long rest. (PHB 198)
 
 #### Stimulant Injection
-Starting at 6th level, you can use your action to touch a willing creature other than yourself and give it a burst of energy. The creature can add 1d8 to its initiative rolls for 1 hour, or until you use this feature again.
+At 6th level, you can use your action to touch a willing creature other than yourself and give it a burst of vigilance. The creature can add 1d8 to its initiative rolls for 1 hour, or until you use this feature again.
 
 #### Potent Spellcasting
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-#### 17th Level Feature (5 Hour Energy?)
-Something to do with time stop maybe?
-You become immune to the exhausted condition?
+#### Five Day Energy (5 Hour Energy?)
+At 17th level, your blood courses with the energy of your divine connection. Until you reach 6 levels of exhaustion, you suffer none of the effects of the exhausted condition. 
 
+Additionally, *time stop* is added to the list of domain spells for you.
+
+<!---
+
+### Potential feature names
+Fuel the body, fuel the brain, fuel the soul
+
+brain fuel
+
+body fuel
+
+soul fuel
+
+Pick-Me-Up
+
+--->
 
 ### Inspired by this tweet
-https://cdn.discordapp.com/attachments/722272630518054924/754052747191386132/FB_IMG_1599850569052.jpg
+<img 
+  src='https://cdn.discordapp.com/attachments/724356361177268235/771422343767523368/Caffeine_Cleric_tweet.png' 
+  style='width:325px' />
+Credit: Xero Reynolds
+
+https://cdn.discordapp.com/attachments/724356361177268235/771422343767523368/Caffeine_Cleric_tweet.png
