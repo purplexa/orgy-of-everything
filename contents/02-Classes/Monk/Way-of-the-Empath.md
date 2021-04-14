@@ -1,3 +1,5 @@
+<div class="phb">
+
 ### Way of the Empath
 Whether by a natural affinity or intensive dedication, monks of the Way of the Empath interact with the ki of others by sensing their spiritual auras. Through study of this ability they learn to connect to others in a deeper way, and the most adept can even influence the emotions of others. While most such practitioners use this ability to help others, soothing their pain and struggles, some take advantage of the vulnerability of others, manipulating their emotions to exploit them.
 
